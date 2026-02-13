@@ -1,2 +1,2 @@
 # Zohaib
-First Prime
+First, The Prime
